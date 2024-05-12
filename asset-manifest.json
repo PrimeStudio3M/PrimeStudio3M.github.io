@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bb4c12c8.chunk.css",
+    "main.js": "./static/js/main.59655be8.chunk.js",
+    "main.js.map": "./static/js/main.59655be8.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.0f77879c.js",
+    "runtime-main.js.map": "./static/js/runtime-main.0f77879c.js.map",
+    "static/css/2.a954db03.chunk.css": "./static/css/2.a954db03.chunk.css",
+    "static/js/2.894056ae.chunk.js": "./static/js/2.894056ae.chunk.js",
+    "static/js/2.894056ae.chunk.js.map": "./static/js/2.894056ae.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.a954db03.chunk.css.map": "./static/css/2.a954db03.chunk.css.map",
+    "static/css/main.bb4c12c8.chunk.css.map": "./static/css/main.bb4c12c8.chunk.css.map",
+    "static/js/2.894056ae.chunk.js.LICENSE.txt": "./static/js/2.894056ae.chunk.js.LICENSE.txt",
+    "static/media/YouTubeScreen1.d0631244.png": "./static/media/YouTubeScreen1.d0631244.png",
+    "static/media/App.css": "./static/media/getIcon.f902960a.png",
+    "static/media/logo192.3aa6745f.png": "./static/media/logo192.3aa6745f.png",
+    "static/media/slyPost.813eedf3.png": "./static/media/slyPost.813eedf3.png",
+    "static/media/zombiePost.48898d98.png": "./static/media/zombiePost.48898d98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f77879c.js",
+    "static/css/2.a954db03.chunk.css",
+    "static/js/2.894056ae.chunk.js",
+    "static/css/main.bb4c12c8.chunk.css",
+    "static/js/main.59655be8.chunk.js"
+  ]
+}

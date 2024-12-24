@@ -1,5 +1,6 @@
-.
+
 // ADMOB
+google.com, pub-5118961420983262, DIRECT, f08c47fec0942fa0
 google.com, pub-5118961420983262, DIRECT, f08c47fec0942fa0
 
 // APPLOVIN 

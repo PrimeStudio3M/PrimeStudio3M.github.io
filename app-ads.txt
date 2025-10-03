@@ -2,6 +2,7 @@
 // ADMOB
 google.com, pub-5118961420983262, DIRECT, f08c47fec0942fa0
 google.com, pub-5118961420983262, DIRECT, f08c47fec0942fa0
+google.com, pub-4976044430096928, DIRECT, f08c47fec0942fa0
 
 // APPLOVIN 
 applovin.com, 20a0992c8bbb605a6a89c30fbdfba0d8, DIRECT
